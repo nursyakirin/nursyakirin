@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Syakirin
 - 👀 I’m interested in Full Stack Web/App Development 
-- 🌱 I’m currently learning HTMl, CSS and JavaScript
+- 🌱 I’m currently learning HTMl, CSS, JavaScript, React 
 - 💞️ I’m looking to collaborate on front end development 
 - 📫 Reach me by email: syakirinomar96@gmail.com
 
